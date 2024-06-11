@@ -1,0 +1,14 @@
+.mission ul li{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.mission ul{
+    padding: 0;
+}
+.mission li i{
+    color: #fe470a;
+}

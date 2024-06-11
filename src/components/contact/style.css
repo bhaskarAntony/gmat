@@ -1,0 +1,24 @@
+.contact{
+    min-height: 90vh;
+    background: linear-gradient(#0000006c, #000), url(https://img.freepik.com/free-photo/concentrated-call-center-agent-talking-with-customer-while-working-office_637285-6171.jpg?t=st=1718046609~exp=1718050209~hmac=4009005d05c6a9911463191596a3142748d70628dda86a79a368be53c0265bfc&w=740) no-repeat center;
+    background-size: cover;
+}
+.contact .form-control, .contact .form-select{
+    padding: 15px;
+}
+.contact button{
+    width: fit-content;
+}
+.contact ul{
+    list-style-type: none;
+    padding: 0px;
+}
+.contact ul li{
+    padding: 15px;
+    background-color: #ffffff42;
+    border-left: 3px solid #fe470a;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}

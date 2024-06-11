@@ -1,0 +1,5 @@
+.hero{
+    min-height: 90vh;
+    background: linear-gradient(#0000001f, #000), url(https://img.freepik.com/free-photo/modern-equipped-computer-lab_23-2149241261.jpg?t=st=1718042363~exp=1718045963~hmac=1d23b0c9beae340efd3fb6a156b42c0076012bb0b6bfd25424e3bdc93cff5977&w=740) no-repeat center;
+    background-size: cover;
+}

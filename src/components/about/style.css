@@ -1,0 +1,8 @@
+.about-section ul{
+    list-style-type: none;
+    padding: 0;
+}
+.about-section ul li i{
+    font-size: 1.3em;
+    color: #f04c0b;
+}
