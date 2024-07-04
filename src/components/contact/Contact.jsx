@@ -22,7 +22,7 @@ function Contact() {
                     <i class="bi bi-telephone-fill"></i>
                     <div>
                         <span className="d-block">Contact Us:</span>
-                        <span className="fs-6">chowdarykh@be-practical.com </span>
+                        <span className="fs-6">chowdarykh@gmattechnologies.com</span>
                     </div>
                     </li>
                 </ul>
