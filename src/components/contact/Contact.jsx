@@ -15,14 +15,14 @@ function Contact() {
                     <i class="bi bi-geo-alt-fill"></i>
                     <div>
                         <span className="d-block">Location:</span>
-                        <span className="fs-6">12/A, Pk House New York, US</span>
+                        <span className="fs-6">#737C,1stFloor,1st cross 3rd Stage,4th Block Basaveshwara nagar Bengaluru-560079</span>
                     </div>
                     </li>
                     <li>
                     <i class="bi bi-telephone-fill"></i>
                     <div>
-                        <span className="d-block">Call Us:</span>
-                        <span className="fs-6">+91003873873</span>
+                        <span className="d-block">Contact Us:</span>
+                        <span className="fs-6">chowdarykh@be-practical.com </span>
                     </div>
                     </li>
                 </ul>
